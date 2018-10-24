@@ -4,7 +4,7 @@ This folder contains the code that has been used to compare the accuracy of the 
 
 To rerun the analysis, please run “main.m”.
 
-- Main.m contains the main routine that will load the benchmark dataset (millar10.mat) generated with the Pokhilko et al., 2010 model of the circadian clock of Arabidopsis. The latter has been simulated 10 times with the same noise level. Being stochastic simulations, the performances of each algorithm are changing for each run.
+- Main.m contains the main routine that will load the benchmark dataset (millar10.mat) generated with the Pokhilko et al., 2010 model of the circadian clock of Arabidopsis. The latter has been simulated 50 times with the same noise level. Being stochastic simulations, the performances of each algorithm are changing for each run.
 
 The following functions are associated with our algorithm:
 - “just_tfest.m”
